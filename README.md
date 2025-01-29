@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah Ahmed</h1>
+📄 Know about my experiences<h1 align="center">Hi 👋, I'm Abdullah Ahmed</h1>
 <h3 align="center">Chemist to Data Scientist | Extracting Patterns, Whether in Labs or Data</h3>
 
 - 🌱 I’m currently learning **Machine learning**
@@ -6,6 +6,8 @@
 - **💬 Ask me about 📊 Data Analysis and visualization (SQL, python, Power BI) 📈 Data-Driven regression and time series analysis (R, Python) 💰 Algorithmic Trading & Stock Market Analytics ♻️ Sustainability in Chemistry**
 
 - 📫 How to reach me **abdullahalani26@gmail.com**
+
+- 📄 Know about my experiences **[Abdullah Ahmed MDSA Resume.pdf](https://github.com/user-attachments/files/18584053/Abdullah.Ahmed.MDSA.Resume.pdf)**
 
 - ⚡ Fun fact **One Piece is my favourite anime**
 
